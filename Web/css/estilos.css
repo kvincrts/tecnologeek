@@ -288,6 +288,12 @@ footer{
     color: #9e9797;
 }
 
+.div #fb-root{
+    position: absolute;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 @media screen and (max-width:900px){
     header{
         background-position: center;
