@@ -446,6 +446,15 @@ footer{
 }
 
 @media screen and (max-width: 766px){
+	.fb_dialog{
+		left: 18pt !important;
+		right: 9pt !important;
+	}
+	
+	#fb-root iframe{
+		left: 18pt !important;
+		right: 9pt !important;
+	}
 	
 	#fb-root{
 		display: none;
