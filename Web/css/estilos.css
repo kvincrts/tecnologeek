@@ -354,7 +354,13 @@ footer{
     }
 }
 
-
+@media screen and (max-width:600px){
+    .div #fb-root{
+        position: relative;
+        margin-right: 50px;
+        margin-bottom: 10px;
+    }
+}
 
 @media screen and (max-width:300px){
 
