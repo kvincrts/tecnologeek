@@ -456,9 +456,7 @@ footer{
 		right: initial !important;
 	}
 	
-	#fb-root{
-		display: none;
-	}
+	
 	#app-messenger{
 		display: block;
 	}
