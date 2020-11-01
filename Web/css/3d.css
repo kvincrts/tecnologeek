@@ -249,6 +249,9 @@ footer{
     header{
         background-position: center;
     }
+    .grid .item img{
+        width: 200px;
+    }
 }
 
 @media screen and (max-width:300px){
