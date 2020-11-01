@@ -456,10 +456,16 @@ footer{
 		right: 9pt !important;
 	}
 	
-	
-	
-	#app-messenger{
-		display: block;
+	#app-whatsapp{
+		left: 18pt !important;
+		right: 9pt !important;
 	}
+	
+	#app-whatsapp iframe{
+		left: 18pt !important;
+		right: 9pt !important;
+	}
+	
+	
 }
 
