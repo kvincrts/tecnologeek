@@ -289,7 +289,7 @@ footer{
 }
 
 .div #fb-root{
-    position: absolute;
+    position: relative;
     margin-right: 10px;
     margin-bottom: 10px;
 }
