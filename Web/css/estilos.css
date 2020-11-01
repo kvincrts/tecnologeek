@@ -445,3 +445,12 @@ footer{
 	color: #0084ff;	
 }
 
+@media screen and (max-width: 766px){
+	#fb-root{
+		display: none;
+	}
+	#app-messenger{
+		display: block;
+	}
+}
+
