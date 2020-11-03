@@ -475,3 +475,13 @@ footer{
 	
 }
 
+.logo{
+    position: absolute;
+}
+
+.logo img{
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
