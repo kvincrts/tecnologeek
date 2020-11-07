@@ -249,6 +249,7 @@ footer{
     header{
         background-position: center;
     }
+
     .grid .item img{
         width: 150px;
     }
@@ -297,15 +298,5 @@ footer{
     .titulo-final{
         font-size: 20px;
     }
-}
-
-.logo{
-    position: absolute;
-}
-
-.logo img{
-    width: 50%;
-    margin-left: 5%;
-    margin-top: 5%;
 }
 
